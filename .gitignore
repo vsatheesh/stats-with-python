@@ -6,3 +6,10 @@ recordings/
 *.mov
 .DS_Store
 data/raw/
+
+# Quarto book output
+_book/
+.quarto/
+
+/.quarto/
+**/*.quarto_ipynb
